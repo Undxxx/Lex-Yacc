@@ -1,0 +1,8 @@
+int main(){
+	float number1 = 10.2; 
+	int number2 = 1;
+	number1 *= bint;
+	if(number1 >= number2){
+		printf(number2);
+	}
+}
